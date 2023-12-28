@@ -1,17 +1,31 @@
-###  Olá eu sou a Patricia  👋
+## <h1 align="left"> Olá, sou a Patricia 😄 </h1>
 
-- 🔭 Eu estudo Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ela/Dela
-<br><br>
-<div style="padding-left: 30%;" align="center" >
-  <img align="center" alt="logo Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="logo PHP" src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white">
-  <img align="center" alt="logo JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="logo CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-</a>
 
-<br>
-<hr>
+Atualmente estou cursando Análise e Desenolvimento de Sistemas💻👩‍🎓
+</br>
+Apaixonada por tecnologia.
+</br>
+</br>
+📫 Você pode falar comigo pelo [Email] plima0179@gmail.com
+</br>
+</br>
+### 🖥️ Esou aprendendo as seguintes Tecnologias : 
+</br>
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+
+
+
+
+
+
+
+
+
 
