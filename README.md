@@ -22,7 +22,7 @@ Apaixonada por tecnologia!
 
 ###
 
-![Snake animation](https://github.com/patricialima1992/patricialima1992/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/patricialima1992/patricialima1992/blob/output/github-contribution-grid-snake.svg) 
 
 
 
