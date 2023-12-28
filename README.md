@@ -3,7 +3,7 @@
 
 Atualmente estou cursando Análise e Desenolvimento de Sistemas💻👩‍🎓
 </br>
-Apaixonada por tecnologia.
+Apaixonada por tecnologia!
 </br>
 </br>
 📫 Você pode falar comigo pelo [Email] plima0179@gmail.com
